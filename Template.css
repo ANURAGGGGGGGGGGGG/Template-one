@@ -1,0 +1,125 @@
+:root{
+    --anurag: #109cf1;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main{
+    width: 1200px;
+    margin: 0px auto;
+    margin-top: 20px;
+    text-align: center;
+    
+}
+.box0{
+    margin: 0px auto;
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-weight: bold;
+    font-size: 70px;
+    color: var(--anurag);
+}
+.box{
+    width: 1197px;
+    height: 30px;
+    background-color: var(--anurag);
+    color: white;
+    font-family: 'Lilita One', cursive;
+    display: flex;
+    gap: 90px;
+    justify-content: center;
+    align-items: center;
+}
+.box1{
+    width: 220px;
+    height: 25x;
+    text-align: center;
+    background-color: white;
+    margin: 0px auto;
+    position: absolute;
+    margin-left: 670px;
+    margin-top: 27px;
+    font-family: 'Lilita One', cursive;
+}
+.box2{
+    display: flex;
+    width: 1100px;
+    height: 280px;
+    border-top: 2px solid #90A0B7;
+    justify-content: center;
+    margin: 0px auto;
+    align-items: center;
+    gap: 100px;
+}
+.box8{
+    display: flex;
+    width: 1100px;
+    height: 280px;
+    justify-content: center;
+    margin: 0px auto;
+    align-items: center;
+    gap: 90px;
+}
+
+.text{
+    font-family: 'Oswald', sans-serif;
+}
+.box3{
+    width: 250px;
+    text-align: center;
+    font-family: 'Advent Pro', sans-serif;
+}
+.box4{
+    width: 260px;
+    text-align: center;
+}
+.box5{
+    width: 270px;
+    text-align: center;
+}
+.box6{
+    display: flex;
+    width: 1100px;
+    height: 130px;
+    justify-content: center;
+    margin: 0px auto;
+    align-items: center;
+    
+}
+button{
+    font-size: 22px;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 12px;
+    border: none;
+    background-color: var(--anurag);
+    color: white;
+    font-family: 'Nunito', sans-serif;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+ .text1{
+    font-family: 'Advent Pro', sans-serif;
+    color: grey;
+ }  
+ .text2{
+    font-size: 20px;
+ } 
+.box7{
+    width: 450px;
+    margin: 0px auto;
+    height: 200px;
+    font-family: 'Montserrat', sans-serif;
+}
+h2{
+    font-family: 'Sacramento', cursive;
+    font-size: 50px;
+}
+
